@@ -32,8 +32,8 @@ body {
     line-height: inherit
 }
 
-.top {
-    top: 207px;
+.m-auto {
+    margin: auto;
 }
 
 hr {
